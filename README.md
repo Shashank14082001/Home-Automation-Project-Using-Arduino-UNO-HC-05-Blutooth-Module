@@ -1,1 +1,2 @@
 # Home-Automation-Project-Using-Arduino-UNO-HC-05-Blutooth-Module
+I prepare this home automation project using an Arduino UNO and an HC-05 Bluetooth module. The goal is to make it easy to control household devices like lights and appliances through a mobile app. With the Arduino's flexibility and the HC-05's 100m Bluetooth range, this system will allow users to manage their home wirelessly, making life more convenient and customizable.
